@@ -8,6 +8,7 @@ python-dotenv = "*"
 flask = "*"
 pandas = "*"
 pandasql = "*"
+flask-cors = "*"
 
 [dev-packages]
 pre-commit = "*"
