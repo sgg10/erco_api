@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 python-dotenv = "*"
 flask = "*"
+pandas = "*"
+pandasql = "*"
 
 [dev-packages]
 pre-commit = "*"
